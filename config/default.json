@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "Zahar fullstack developer",
+  "mongoUri": "mongodb+srv://zakhar:4727747nik@cluster0.vvlyb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
